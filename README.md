@@ -5,7 +5,7 @@ Snowberry Pi
 
 User Instructions:
 1. Once Raspberry PI is turned on, the LCD screen should display the weather information and update every minute.
-2. Text 'menu' to +1 (757) 694-4797, which is the Twilio number for the Raspberry Pi, for a list of request options.
+2. Text 'menu' to +1 (757) 694-4797, which is the Twilio number for the Raspberry Pi, for a list of request options. Note that this will only work if your number is registered with our twilio account.
 
 Important Python Files:
 run.py
