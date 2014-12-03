@@ -17,3 +17,10 @@ displayWeather.py
 -Displays weather, current time, and outlook on LCD screen using Weather Underground API.
 -Main program is in forecast.py. displayWeather.py sets up connection with LCD and calls the program in forecast.
 -Daemon in crontab is setup so that the LCD screen gets updated every minute when the Raspberry Pi is on.
+
+
+LCD display library
+	- https://github.com/adafruit/Adafruit-Respberry-Pi-Python-Code
+
+ngrok server
+	- http://ngrok.com
